@@ -1,6 +1,5 @@
 flet 
 pandas 
-pywin32 
 pillow
 
 
